@@ -1,0 +1,23 @@
+// abstracts
+
+@import "./abstracts/mixins";
+
+// base
+@import "./base/normalize";
+
+
+
+
+.str0 {
+	stroke: white;
+	stroke-width: 76.36;
+	stroke-miterlimit: 22.9256;
+	
+}
+.fil0 {
+	fill: #EEEEEE;
+	&:hover {
+		fill: #2f74b4;
+	}
+}
+
