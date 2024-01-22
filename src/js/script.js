@@ -7,4 +7,3 @@ if (headerBurgerBtn) {
 		body.classList.toggle('_lock');
 	});
 }
-//# sourceMappingURL=script.js.map
